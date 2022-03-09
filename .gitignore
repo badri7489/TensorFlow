@@ -130,4 +130,5 @@ dmypy.json
 *.jpg
 *.txt
 **/_MACOSX
-*._Flicker8k_Dataset
+*._Flickr8k_Dataset
+*.pkl
